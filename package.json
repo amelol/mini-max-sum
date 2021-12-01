@@ -1,0 +1,14 @@
+{
+  "name": "mini-max-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mini-max-sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "olha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
